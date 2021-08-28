@@ -1,4 +1,4 @@
-mass,width,height,color,fruit_name
+mass,width,height,color_score,fruit_name
 152,7.6,7.3,0.69,apple
 156,7.7,7.1,0.69,apple
 156,7.6,7.5,0.67,apple
